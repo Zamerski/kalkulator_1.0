@@ -20,14 +20,14 @@ Co się zmieniło w wersji 1.0:
 | **Design**               | Jasne tło, prosty layout         | Ciemne tło, gradient, animacje przycisków, responsywność  |
 
 
-##Jak uruchomić
+Jak uruchomić
 
 1. Pobierz lub sklonuj repozytorium:
 2. Otwórz plik w przeglądarce.
 
 Nie są wymagane żadne dodatkowe biblioteki, frameworki ani backend.
 
-##Technologie:
+Technologie:
 - HTML5
 - CSS3 (custom styling + Google Fonts)
 - JavaScript (czysty JS, `eval()` + `Math`)
@@ -36,13 +36,13 @@ Nie są wymagane żadne dodatkowe biblioteki, frameworki ani backend.
 
 Projekt udostępniony na licencji Creative Commons Legal Code
 
-##Autor
+Autor
 
 Projekt wykonany przez: **Adama Zamerskiego**  
 Szkoła: ZS 10 im. Stanisława Staszica, Warszawa  
 Klasa: 2AP
 
-##Dodatkowe informacje
+Dodatkowe informacje
 
 - Projekt jest w pełni działającą wersją finalną (v1.0).
 
