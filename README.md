@@ -1,11 +1,12 @@
 Kalkulator – Finalna wersja 1.0
-
 PROJOPP_AP_Final – Projekt zaliczeniowy
 
-Opis projektu
+
+Opis projektu:
 
 Projekt przedstawia wielofunkcyjny kalkulator online, napisany w czystym HTML, CSS i JavaScript.
 Nowa wersja 1.0 stanowi kompletnie przeprojektowaną wersję poprzedniego modelu kalkulatora z nowoczesnym wyglądem, zaawansowanymi funkcjami matematycznymi oraz rozbudowaną obsługą interfejsu użytkownika.
+
 
 Co się zmieniło w wersji 1.0:
 
@@ -20,29 +21,32 @@ Co się zmieniło w wersji 1.0:
 | **Design**               | Jasne tło, prosty layout         | Ciemne tło, gradient, animacje przycisków, responsywność  |
 
 
-Jak uruchomić
+Jak uruchomić:
 
 1. Pobierz lub sklonuj repozytorium:
 2. Otwórz plik w przeglądarce.
 
 Nie są wymagane żadne dodatkowe biblioteki, frameworki ani backend.
 
+
 Technologie:
 - HTML5
 - CSS3 (custom styling + Google Fonts)
 - JavaScript (czysty JS, `eval()` + `Math`)
 
-Licencja
+
+Licencja:
 
 Projekt udostępniony na licencji Creative Commons Legal Code
 
-Autor
+
+Autor:
 
 Projekt wykonany przez: **Adama Zamerskiego**  
 Szkoła: ZS 10 im. Stanisława Staszica, Warszawa  
 Klasa: 2AP
 
-Dodatkowe informacje
+Dodatkowe informacje:
 
 - Projekt jest w pełni działającą wersją finalną (v1.0).
 
