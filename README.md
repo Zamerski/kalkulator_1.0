@@ -32,7 +32,7 @@ Technologie:
 - CSS3 (custom styling + Google Fonts)
 - JavaScript (czysty JS, `eval()` + `Math`)
 
-##Licencja
+Licencja
 
 Projekt udostępniony na licencji Creative Commons Legal Code
 
